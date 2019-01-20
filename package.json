@@ -1,0 +1,11 @@
+{
+  "name": "d3-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "EricHeredia <EricDavidHeredia@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.7.0",
+    "http-server": "^0.11.1"
+  }
+}
